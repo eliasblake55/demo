@@ -1,2 +1,3 @@
 # demo
-Demo for Github intro video.
+Demo for GitHub intro video.
+Description: Demo
